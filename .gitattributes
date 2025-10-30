@@ -1,3 +1,7 @@
+# Archivos de datos
 *.csv linguist-vendored
 *.csv linguist-generated
 registo_estudo.csv linguist-vendored
+
+# Archivos de configuración de PyInstaller (no son TeX)
+*.spec linguist-language=Python
