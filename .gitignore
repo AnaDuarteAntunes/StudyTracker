@@ -1,0 +1,9 @@
+# Archivos de datos personales
+registo_estudo.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
