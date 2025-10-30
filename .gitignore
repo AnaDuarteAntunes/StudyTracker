@@ -1,4 +1,4 @@
-# Archivos de datos personales
+# Datos personales
 registo_estudo.csv
 
 # Python
@@ -7,3 +7,19 @@ __pycache__/
 *$py.class
 *.so
 .Python
+
+# PyInstaller - IMPORTANTE
+build/
+dist/
+*.spec
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
